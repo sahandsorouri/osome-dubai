@@ -1,5 +1,5 @@
-# Osome - Dubai Expansion Pitch Deck  
-*(Sahand Sorouri – June 2025)*  
+# Osome – Dubai Expansion Pitch Deck  
+*(Sahand Sorouri – 29 June 2025)*  
 
 ---
 
@@ -12,79 +12,90 @@ Delivering fair, tech-driven company-setup & bookkeeping for UAE founders
 ## 2 · Why Dubai & GCC Now?  
 | Fact | Source | Relevance |
 |------|--------|-----------|
-| 13k+ businesses registered **monthly** in UAE (2024) | Dubai DED | High company-formation velocity |
-| Avg. agency setup fee ≈ **AED 18k** | Market survey (2025) | Clear cost pain for founders |
-| 9 % corporate tax (2023) → compliance demand spike | UAE MoF | Opportunity for bookkeeping + reporting |
-| 84 % founders prefer **digital self-serve** options | PwC SME study | Osome’s SaaS edge |
-
-**Gap:** Founders overpay for fragmented, manual services.  
+| 13 k+ new businesses registered **monthly** in UAE (2024) | Dubai DED | High company-formation velocity |
+| Avg. agency setup fee ≈ **AED 18 k** | Market survey 2025 | Clear cost pain for founders |
+| UAE 9 % corporate-tax rollout (2023) | UAE MoF | Drives demand for compliant bookkeeping |
+| 84 % founders prefer **digital self-serve** tools | PwC SME study 2024 | Osome SaaS advantage |
 
 ---
 
 ## 3 · Problem Statement  
 > “Setting up & running a UAE company still means paperwork, hidden fees, and disconnected advisors.”  
 
-* Pain 1 – Opaque fees / upsells  
-* Pain 2 – Manual document chase (passport, MoA, etc.)  
-* Pain 3 – Post-setup bookkeeping handled by separate firms  
+* Opaque pricing / upsells  
+* Document-chasing friction (passport, MoA, bank KYC)  
+* Separate vendors for bookkeeping, VAT, payroll  
 
 ---
 
-## 4 · Osome Solution for UAE  
-| Phase | Automated | Human-in-the-Loop |
-|-------|-----------|------------------|
-| Company registration | Pre-filled forms, OCR passport scan | Partner free-zone agent validation |
-| Banking & payments | Instant bank-account referral, FX wallet | Compliance officer KYC support |
-| Bookkeeping & tax | Real-time ledger, VAT auto-filings | Dedicated accountant review |
+## 4 · Market Size (TAM · SAM · SOM)  
+| Tier | Definition | Value (USD) |
+|------|------------|-------------|
+| **TAM** | All GCC SME compliance spending | **$3.8 B** |
+| **SAM** | UAE SMEs needing setup + bookkeeping | **$620 M** |
+| **SOM (Yr 3 target)** | 3 % UAE share (≈ 6 k clients) | **$19 M ARR** |
+
+_Assumptions: 650 k active SMEs GCC, 155 k UAE; avg spend ≈ USD 4 k/yr; CAGR 9 %._
 
 ---
 
-## 5 · Product-Market Fit Signals  
+## 5 · Osome Solution for UAE  
+| Phase | Automated (SaaS) | Human-in-the-Loop |
+|-------|------------------|-------------------|
+| Company registration | Pre-filled forms, OCR ID scan | Free-zone agent validation |
+| Banking & payments | Instant account-opening referral | Compliance officer KYC help |
+| Bookkeeping & tax | Real-time ledger, VAT e-filing | Dedicated accountant review |
+
+---
+
+## 6 · Early Product-Market Fit Signals  
 * 150+ inbound UAE leads to Osome SG in last 12 mo  
-* Pilot landing page test: **23 %** signup→consult conversion  
-* Competitive gap: no one offers “all-in-one + SaaS dashboard” yet  
+* Landing-page smoke test → **23 %** signup→consult conversion  
+* Competitive gap: no all-in-one SaaS + accountant bundle locally  
 
 ---
 
-## 6 · Business Model (AED)  
+## 7 · Business Model (AED)  
 | Service | Price | COGS | Gross Margin |
 |---------|-------|------|--------------|
-| Company setup bundle | 12,000 | 6,500 | 46 % |
-| Monthly bookkeeping | 1,800 | 700 | 61 % |
-| Add-on CFO insights | 900 | 250 | 72 % |
+| Company setup bundle | 12 000 | 6 500 | 46 % |
+| Monthly bookkeeping | 1 800 | 700 | 61 % |
+| CFO insights add-on | 900 | 250 | 72 % |
 
-Lifetime-value projection (SME, 3 yrs): **AED 87k**.
+Projected SME LTV (3 yrs): **AED 87 k**.
 
 ---
 
-## 7 · Go-to-Market Roadmap  
-1. **Quarter 0 (pilot)** – Dubai free-zone focus, 50 beta customers  
-2. **Q1** – VAT filing module & Airwallex wallet integration  
-3. **Q2** – Expand to Abu Dhabi, launch Arabic interface  
+## 8 · Go-to-Market Roadmap  
+1. **Q0 Pilot** – Dubai free-zone, 50 beta clients  
+2. **Q1** – VAT module + Airwallex wallet integration  
+3. **Q2** – Launch Arabic UI, expand to Abu Dhabi  
 4. **Q3** – Channel partnerships (law firms, coworking hubs)  
 
 ---
 
-## 8 · Key Metrics  
-* Activation (setup docs complete) ≥ 70 % within 7 days  
-* CAC payback < 6 months  
-* NPS ≥ 55 (SG baseline = 52)  
-* 12-mo churn < 6 %  
+## 9 · Key Success Metrics  
+| Metric | Target |
+|--------|--------|
+| Activation (docs complete, 7 days) | ≥ 70 % |
+| CAC payback | < 6 mo |
+| NPS | ≥ 55 (SG baseline = 52) |
+| 12-mo churn | < 6 % |
 
 ---
 
-## 9 · Team & Local Edge  
+## 10 · Team & Local Edge  
 * **COO already Dubai-based** – regulatory network  
-* Sahand Sorouri – 6 yr PM in fintech & marketplaces, GCC contacts  
-* Free-zone advisor MoU signed (conf.)  
+* Sahand Sorouri – 6 yrs PM in fintech & marketplaces (MENA)  
+* Free-zone advisor
 
 ---
 
-## 10 · Asks / Next Steps  
-* Green-light 3-month UAE pilot budget (USD 280 k)  
-* Assign cross-functional squad (PM, Eng 2, Ops 1, Finance 1)  
-* Intro to Osome’s existing Airwallex & Tenity partners for UAE scope  
+## 11 · Asks / Next Steps  
+* Approve 3-month UAE pilot budget (USD 280 k)  
+* Assign cross-functional squad (PM 1, Eng 2, Ops 1, Finance 1)  
+* Intro to existing Airwallex / Tenity partners for UAE rollout  
 
 ---
 
-**Thank you – excited to discuss feasibility over a virtual coffee!**
+**Thank you – happy to dive deeper over a coffee.**
