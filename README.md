@@ -58,9 +58,9 @@ _Assumptions: 650k active SMEs GCC, 155k UAE; avg spend ≈ USD 4k/yr; CAGR 9%._
 ## 7 · Business Model (AED)  
 | Service | Price | COGS | Gross Margin |
 |---------|-------|------|--------------|
-| Company setup bundle | 12,000 | 6,500 | 46 % |
-| Monthly bookkeeping | 1,800 | 700 | 61 % |
-| CFO insights add-on | 900 | 250 | 72 % |
+| Company setup bundle | 12,000 | 6,500 | 46% |
+| Monthly bookkeeping | 1,800 | 700 | 61% |
+| CFO insights add-on | 900 | 250 | 72% |
 
 Projected SME LTV (3 yrs): **AED 87k**.
 
@@ -77,16 +77,16 @@ Projected SME LTV (3 yrs): **AED 87k**.
 ## 9 · Key Success Metrics  
 | Metric | Target |
 |--------|--------|
-| Activation (docs complete, 7 days) | ≥ 70 % |
+| Activation (docs complete, 7 days) | ≥ 70% |
 | CAC payback | < 6 mo |
 | NPS | ≥ 55 (SG baseline = 52) |
-| 12-mo churn | < 6 % |
+| 12-mo churn | < 6% |
 
 ---
 
 ## 10 · Team & Local Edge  
 * **COO already Dubai-based** – regulatory network  
-* Sahand Sorouri – 6yrs PM in fintech & marketplaces (MENA)  
+* Sahand Sorouri - 6yrs PM in fintech & marketplaces (MENA)  
 * Free-zone advisor
 
 ---
