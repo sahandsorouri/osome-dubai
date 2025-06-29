@@ -1,11 +1,10 @@
 # Osome – Dubai Expansion Pitch Deck  
-<img src="https://github.com/user-attachments/assets/9b6f7cbb-a9df-415b-b8d9-2e41971596f3"
-     alt="Osome Dubai deck cover"
-     width="350"
-     align="right" />
-
 *(Sahand Sorouri – 29 June 2025)*  
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9b6f7cbb-a9df-415b-b8d9-2e41971596f3"
+       alt="Osome Dubai deck cover"
+       width="350" />
+</p>
 ---
 
 ## 1 · Title  
