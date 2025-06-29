@@ -12,17 +12,17 @@ Delivering fair, tech-driven company-setup & bookkeeping for UAE founders
 ## 2 · Why Dubai & GCC Now?  
 | Fact | Source | Relevance |
 |------|--------|-----------|
-| 13 k+ new businesses registered **monthly** in UAE (2024) | Dubai DED | High company-formation velocity |
+| 13k+ new businesses registered **monthly** in UAE (2024) | Dubai DED | High company-formation velocity |
 | Avg. agency setup fee ≈ **AED 18 k** | Market survey 2025 | Clear cost pain for founders |
-| UAE 9 % corporate-tax rollout (2023) | UAE MoF | Drives demand for compliant bookkeeping |
-| 84 % founders prefer **digital self-serve** tools | PwC SME study 2024 | Osome SaaS advantage |
+| UAE 9% corporate-tax rollout (2023) | UAE MoF | Drives demand for compliant bookkeeping |
+| 84% founders prefer **digital self-serve** tools | PwC SME study 2024 | Osome SaaS advantage |
 
 ---
 
 ## 3 · Problem Statement  
 > “Setting up & running a UAE company still means paperwork, hidden fees, and disconnected advisors.”  
 
-* Opaque pricing / upsells  
+* Opaque pricing/upsells  
 * Document-chasing friction (passport, MoA, bank KYC)  
 * Separate vendors for bookkeeping, VAT, payroll  
 
@@ -31,11 +31,11 @@ Delivering fair, tech-driven company-setup & bookkeeping for UAE founders
 ## 4 · Market Size (TAM · SAM · SOM)  
 | Tier | Definition | Value (USD) |
 |------|------------|-------------|
-| **TAM** | All GCC SME compliance spending | **$3.8 B** |
-| **SAM** | UAE SMEs needing setup + bookkeeping | **$620 M** |
-| **SOM (Yr 3 target)** | 3 % UAE share (≈ 6 k clients) | **$19 M ARR** |
+| **TAM** | All GCC SME compliance spending | **$3.8B** |
+| **SAM** | UAE SMEs needing setup + bookkeeping | **$620M** |
+| **SOM (Yr 3 target)** | 3% UAE share (≈ 6 k clients) | **$19M ARR** |
 
-_Assumptions: 650 k active SMEs GCC, 155 k UAE; avg spend ≈ USD 4 k/yr; CAGR 9 %._
+_Assumptions: 650k active SMEs GCC, 155k UAE; avg spend ≈ USD 4k/yr; CAGR 9%._
 
 ---
 
@@ -49,8 +49,8 @@ _Assumptions: 650 k active SMEs GCC, 155 k UAE; avg spend ≈ USD 4 k/yr; CAGR 9
 ---
 
 ## 6 · Early Product-Market Fit Signals  
-* 150+ inbound UAE leads to Osome SG in last 12 mo  
-* Landing-page smoke test → **23 %** signup→consult conversion  
+* 150+ inbound UAE leads to Osome SG in last 12mo  
+* Landing-page smoke test → **23%** signup→consult conversion  
 * Competitive gap: no all-in-one SaaS + accountant bundle locally  
 
 ---
@@ -58,11 +58,11 @@ _Assumptions: 650 k active SMEs GCC, 155 k UAE; avg spend ≈ USD 4 k/yr; CAGR 9
 ## 7 · Business Model (AED)  
 | Service | Price | COGS | Gross Margin |
 |---------|-------|------|--------------|
-| Company setup bundle | 12 000 | 6 500 | 46 % |
-| Monthly bookkeeping | 1 800 | 700 | 61 % |
+| Company setup bundle | 12,000 | 6,500 | 46 % |
+| Monthly bookkeeping | 1,800 | 700 | 61 % |
 | CFO insights add-on | 900 | 250 | 72 % |
 
-Projected SME LTV (3 yrs): **AED 87 k**.
+Projected SME LTV (3 yrs): **AED 87k**.
 
 ---
 
@@ -86,15 +86,15 @@ Projected SME LTV (3 yrs): **AED 87 k**.
 
 ## 10 · Team & Local Edge  
 * **COO already Dubai-based** – regulatory network  
-* Sahand Sorouri – 6 yrs PM in fintech & marketplaces (MENA)  
+* Sahand Sorouri – 6yrs PM in fintech & marketplaces (MENA)  
 * Free-zone advisor
 
 ---
 
 ## 11 · Asks / Next Steps  
-* Approve 3-month UAE pilot budget (USD 280 k)  
+* Approve 3-month UAE pilot budget (USD 280k)  
 * Assign cross-functional squad (PM 1, Eng 2, Ops 1, Finance 1)  
-* Intro to existing Airwallex / Tenity partners for UAE rollout  
+* Intro to existing Airwallex/Tenity partners for UAE rollout  
 
 ---
 
